@@ -4,12 +4,13 @@ This is my 2023 portfolio. Here you can download my resume and check out all the
 
 ## Design
 
-![Scremshot](https://imgur.com/oYVnpcK.png)
+<!-- ![Scremshot](https://imgur.com/oYVnpcK.png) -->
 
-![Screamshot](https://imgur.com/Th9089F.png)
+<!-- ![Screamshot](https://imgur.com/Th9089F.png) -->
 
 **Do you want me to design a portfolio like this for you? Do not hesitate to contact me.**
-[Go to my portfolio](https://github.com/oscar91511/portfolio 'portfolio').
+
+<!-- [Go to my portfolio](https://github.com/oscar91511/portfolio 'portfolio'). -->
 
 ## Sections
 
