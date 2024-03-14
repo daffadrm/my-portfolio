@@ -59,6 +59,14 @@ const Edition = () => {
 				</h3>
 				<div className="flex justify-between gap-1 flex-col-reverse md:flex-row mb-6">
 					<div>
+						<div>{'Freelance Web Developer'}</div>
+						<div className="text-light-gray">{'Frontend Developer'}</div>
+					</div>
+
+					<h1 className="text-xs">{'Jakarta, ID / Jan 2024 - Present'}</h1>
+				</div>
+				<div className="flex justify-between gap-1 flex-col-reverse md:flex-row mb-6">
+					<div>
 						<div>{'PT. Code Development Indoensia'}</div>
 						<div className="text-light-gray">{'Software Developer'}</div>
 					</div>
@@ -83,6 +91,20 @@ const Edition = () => {
 						<div className="text-sm text-light-gray">HackerRank</div>
 					</div>
 					<h1 className="text-xs">{'Dec 2023'}</h1>
+				</div>
+				<div className="flex justify-between gap-1 flex-col-reverse md:flex-row mb-6">
+					<div>
+						<div>{'Javascript (Basic)'}</div>
+						<div className="text-sm text-light-gray">HackerRank</div>
+					</div>
+					<h1 className="text-xs">{'Jan 2024'}</h1>
+				</div>
+				<div className="flex justify-between gap-1 flex-col-reverse md:flex-row mb-6">
+					<div>
+						<div>{'Css (Basic)'}</div>
+						<div className="text-sm text-light-gray">HackerRank</div>
+					</div>
+					<h1 className="text-xs">{'Jan 2024'}</h1>
 				</div>
 			</div>
 		</section>
