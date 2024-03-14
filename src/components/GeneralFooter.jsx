@@ -32,7 +32,7 @@ const GeneralFooter = () => {
 				</a>
 			</div>
 
-			<p className="md:order-2">• Copyright ©2023 | All rights reserved • </p>
+			<p className="md:order-2">• Copyright ©2024 | All rights reserved • </p>
 			<p>Daffa Rayhan Mahardhika</p>
 		</footer>
 	);
