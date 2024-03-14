@@ -14,7 +14,7 @@ const CertificateSlider = ({ certificates }) => {
 		speed: 500,
 		slidesToScroll: 1,
 		draggable: true,
-		rows: 1,
+		rows: 2,
 		responsive: [
 			{
 				breakpoint: 3000,

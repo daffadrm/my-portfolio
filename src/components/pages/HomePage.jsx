@@ -10,6 +10,8 @@ import CertificateSlider from './homepage-comps/CertificateSlider';
 const HomePage = () => {
 	const certificates = [
 		{ image: '/images/certificates/frontend-developer-hackerRank.webp' },
+		{ image: '/images/certificates/javascript-basic-certificate.webp' },
+		{ image: '/images/certificates/css_certificate.webp' },
 		{ image: '/images/certificates/fullstack-node-js.webp' },
 	];
 
