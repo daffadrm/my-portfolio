@@ -78,22 +78,6 @@ const Edition = () => {
 				</h3>
 				<div className="flex justify-between gap-1 flex-col-reverse md:flex-row mb-6">
 					<div>
-						<div>{'Bootcamp Full Stack Node JS'}</div>
-						<div className="text-sm text-light-gray">
-							Code Development Indonesia
-						</div>
-					</div>
-					<h1 className="text-xs">{'Feb 2021'}</h1>
-				</div>
-				<div className="flex justify-between gap-1 flex-col-reverse md:flex-row mb-6">
-					<div>
-						<div>{'Frontend Developer (React)'}</div>
-						<div className="text-sm text-light-gray">HackerRank</div>
-					</div>
-					<h1 className="text-xs">{'Dec 2023'}</h1>
-				</div>
-				<div className="flex justify-between gap-1 flex-col-reverse md:flex-row mb-6">
-					<div>
 						<div>{'Javascript (Basic)'}</div>
 						<div className="text-sm text-light-gray">HackerRank</div>
 					</div>
@@ -105,6 +89,22 @@ const Edition = () => {
 						<div className="text-sm text-light-gray">HackerRank</div>
 					</div>
 					<h1 className="text-xs">{'Jan 2024'}</h1>
+				</div>
+				<div className="flex justify-between gap-1 flex-col-reverse md:flex-row mb-6">
+					<div>
+						<div>{'Frontend Developer (React)'}</div>
+						<div className="text-sm text-light-gray">HackerRank</div>
+					</div>
+					<h1 className="text-xs">{'Dec 2023'}</h1>
+				</div>
+				<div className="flex justify-between gap-1 flex-col-reverse md:flex-row mb-6">
+					<div>
+						<div>{'Bootcamp Full Stack Node JS'}</div>
+						<div className="text-sm text-light-gray">
+							Code Development Indonesia
+						</div>
+					</div>
+					<h1 className="text-xs">{'Feb 2021'}</h1>
 				</div>
 			</div>
 		</section>
