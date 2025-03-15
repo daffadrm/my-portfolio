@@ -17,7 +17,7 @@ const ProjectCard = ({ project, handleModalInfo }) => {
     <div className="shadow-md shadow-gray-600 rounded-lg max-w-md mx-auto">
       <img
         onClick={() => handleModalInfo(project)}
-        src={project.src}
+        src={project.src[0].image}
         alt="project card"
         className="rounded-md duration-200 hover:scale-105 cursor-pointer"
       />

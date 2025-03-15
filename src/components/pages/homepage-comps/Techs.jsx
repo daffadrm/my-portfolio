@@ -12,6 +12,7 @@ import postgres from '../../../assets/postgres.png';
 import redux from '../../../assets/redux.png';
 import tailwind from '../../../assets/tailwind.png';
 import bootstrap from '../../../assets/bootstrap.png';
+import materialUi from '../../../assets/material-ui.png'
 import { Link as ScrollLink } from 'react-scroll';
 
 const Techs = () => {
@@ -42,15 +43,15 @@ const Techs = () => {
 		},
 		{
 			id: 5,
-			src: vue,
-			title: 'Vue',
-			style: 'shadow-emerald-500',
+			src: nextjs,
+			title: 'Next Js',
+			style: 'shadow-blue-400',
 		},
 		{
 			id: 6,
-			src: tailwind,
-			title: 'Tailwind CSS',
-			style: 'shadow-cyan-700',
+			src: vue,
+			title: 'Vue',
+			style: 'shadow-emerald-500',
 		},
 		{
 			id: 7,
@@ -60,34 +61,45 @@ const Techs = () => {
 		},
 		{
 			id: 8,
+			src: tailwind,
+			title: 'Tailwind CSS',
+			style: 'shadow-cyan-700',
+		},
+		
+		{
+			id: 9,
 			src: bootstrap,
 			title: 'Bootstrap CSS',
 			style: 'shadow-violet-700',
 		},
 		{
-			id: 9,
+			id: 10,
+			src: materialUi,
+			title: 'Material UI',
+			style: 'shadow-blue-700',
+		},
+		{
+			id: 11,
 			src: git,
 			title: 'Git',
 			style: 'shadow-orange-600',
 		},
+		
 		{
 			id: 10,
 			src: github,
 			title: 'GitHub',
-			style: 'shadow-white',
+			style: 'shadow-white hidden',
 		},
-		{
-			id: 11,
-			src: postgres,
-			title: 'PostgreSQL',
-			style: 'shadow-blue-400',
-		},
+		
+		
 		{
 			id: 12,
 			src: redux,
 			title: 'Redux',
 			style: 'shadow-violet-700',
 		},
+		
 	];
 
 	return (

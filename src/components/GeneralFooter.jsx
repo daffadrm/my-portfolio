@@ -1,5 +1,3 @@
-import React from 'react';
-
 const GeneralFooter = () => {
 	return (
 		<footer className="relative mt-auto flex flex-col items-center text-gray-300 mb-6 gap-2 md:flex-row md:justify-evenly">
@@ -32,7 +30,7 @@ const GeneralFooter = () => {
 				</a>
 			</div>
 
-			<p className="md:order-2">• Copyright ©2024 | All rights reserved • </p>
+			<p className="md:order-2">• Copyright ©2025 | All rights reserved • </p>
 			<p>Daffa Rayhan Mahardhika</p>
 		</footer>
 	);

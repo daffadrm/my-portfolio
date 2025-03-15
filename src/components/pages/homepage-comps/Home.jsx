@@ -1,4 +1,3 @@
-import React from 'react'
 import {MdOutlineKeyboardArrowRight} from 'react-icons/md'
 import { Link } from "react-scroll"
 import MobileSocialLinks from './MobileSocialLinks';
